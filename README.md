@@ -120,16 +120,6 @@ demo/           generated static HTML demo
 
 ---
 
-## Hardware Used
-
-Development was done on:
-
-```text
-GPU: RTX 3050 8GB
-RAM: 31GB
-OS: Linux
-Python: 3.10
-```
 
 The pipeline is offline and cache-based, so it does not need to run in real time.
 
