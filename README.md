@@ -2,15 +2,15 @@
 
 
 <p align="center">
-  <img src="asset/rgb_input_live_tracks.png" width="31%" alt="RGB input with live tracks" />
-  <img src="asset/DA2MetricDepth.png" width="31%" alt="DA2 metric depth" />
-  <img src="asset/segmentation_rgb.png" width="31%" alt="Road and sidewalk segmentation" />
+  <img src="assets/rgb_input_live_tracks.png" width="31%" alt="RGB input with live tracks" />
+  <img src="assets/DA2MetricDepth.png" width="31%" alt="DA2 metric depth" />
+  <img src="assets/segmentation_rgb.png" width="31%" alt="Road and sidewalk segmentation" />
 </p>
 
 <p align="center">
-  <img src="asset/projected_road_bev.png" width="31%" alt="Projected road BEV" />
-  <img src="asset/object_occupancy_grid.png" width="31%" alt="Object occupancy grid" />
-  <img src="asset/risk_map.png" width="31%" alt="Object-aware risk map" />
+  <img src="assets/projected_road_bev.png" width="31%" alt="Projected road BEV" />
+  <img src="assets/object_occupancy_grid.png" width="31%" alt="Object occupancy grid" />
+  <img src="assets/risk_map.png" width="31%" alt="Object-aware risk map" />
 </p>
 
 <p align="center">
