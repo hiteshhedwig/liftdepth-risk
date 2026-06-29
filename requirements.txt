@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pillow
+tqdm
+matplotlib
+ultralytics
+transformers
+accelerate
+safetensors
